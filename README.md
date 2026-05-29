@@ -1,4 +1,4 @@
-# 🌿 Fibonacci & Números Primos — Desafío Web 2025
+# 🌿 Fibonacci & Números Primos
 
 Página web interactiva que aplica la **serie de Fibonacci** y los **números primos** a un problema del mundo real: detectar qué términos de Fibonacci también son números primos, con aplicaciones en seguridad y patrones naturales.
 
