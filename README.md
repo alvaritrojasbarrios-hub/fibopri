@@ -27,11 +27,6 @@ desafio-fibonacci-primos/
 - Verificador independiente de números primos
 - Diseño responsivo (computadora, tablet, celular)
 
-## 🔗 Enlaces
-
-- **Repositorio:** _(pegar tu link de GitHub aquí)_
-- **Página publicada:** _(pegar tu link de GitHub Pages / Netlify aquí)_
-
 ## Código principal
 
 <!DOCTYPE html>
