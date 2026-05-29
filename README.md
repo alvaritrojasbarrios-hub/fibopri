@@ -8,10 +8,14 @@ Página web interactiva que aplica la **serie de Fibonacci** y los **números pr
 desafio-fibonacci-primos/
 │
 ├── index.html
+├── ahorro fibonacci.html
+├── codigos con primo.html
 ├── css/
 │   └── estilos.css
 ├── js/
 │   └── script.js
+│   └── codigos-acceso.js
+│   └── ahorro-fibonacci.js
 └── README.md
 ```
 
